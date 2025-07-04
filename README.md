@@ -68,45 +68,6 @@ Understand learning rate scheduling, batch normalization, dropout, and other tec
 **Model Evaluation and Interpretation:**
 Learn how to assess CNN performance, visualize learned features, and understand what your network has actually learned through techniques like activation maps and filter visualization.
 
-## 📂 Repository Structure
-
-```
-cnn-foundation/
-│
-├── notebooks/
-│   ├── 01_introduction_to_computer_vision.ipynb     # Digital images and basic concepts
-│   ├── 02_convolution_operation_explained.ipynb     # Mathematical and intuitive understanding
-│   ├── 03_building_first_cnn.ipynb                  # Step-by-step CNN construction
-│   ├── 04_understanding_layers.ipynb                # Deep dive into each component
-│   ├── 05_modern_architectures.ipynb                # Exploring famous CNN designs
-│   ├── 06_transfer_learning.ipynb                   # Leveraging pre-trained models
-│   ├── 07_advanced_techniques.ipynb                 # Optimization and advanced methods
-│   └── 08_real_world_applications.ipynb            # Practical projects and use cases
-│
-├── datasets/
-│   ├── sample_images/                               # Example images for learning
-│   ├── custom_dataset/                              # Practice dataset for projects
-│   └── preprocessing_examples/                      # Before/after preprocessing samples
-│
-├── models/
-│   ├── trained_models/                              # Saved models from tutorials
-│   ├── architectures/                               # Model definitions and configs
-│   └── checkpoints/                                 # Training checkpoints
-│
-├── utils/
-│   ├── visualization.py                             # Functions for visualizing features
-│   ├── data_processing.py                           # Image preprocessing utilities
-│   ├── model_utils.py                               # Model building helpers
-│   └── evaluation.py                                # Evaluation and metrics functions
-│
-├── assets/
-│   ├── architecture_diagrams/                       # Visual explanations of CNN concepts
-│   ├── filter_visualizations/                       # Examples of learned filters
-│   └── feature_maps/                                # Activation visualizations
-│
-└── README.md                                        # This comprehensive guide
-```
-
 ## 🚀 How to Run
 
 ### Prerequisites and Environment Setup
